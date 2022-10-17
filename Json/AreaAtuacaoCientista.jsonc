@@ -1,0 +1,57 @@
+{
+    "areaAtuacaoCientista":
+	    [
+            {
+                "idAreaAtuacao": 1,
+                "idCientista": 2
+            },
+            {
+                "idAreaAtuacao": 5,
+                "idCientista": 7
+            },
+            {
+                "idAreaAtuacao":1,
+                "idCientista": 4
+            },
+            {
+                "idAreaAtuacao": 3,
+                "idCientista": 2
+            },
+            {
+                "idAreaAtuacao": 5,
+                "idCientista": 8
+            },
+            {
+                "idAreaAtuacao": 2,
+                "idCientista": 10
+            },
+            {
+                "idAreaAtuacao": 4,
+                "idCientista": 6
+            },
+            {
+                "idAreaAtuacao": 5,
+                "idCientista": 4
+            },
+            {
+                "idAreaAtuacao": 3,
+                "idCientista": 9
+            },
+            {
+                "idAreaAtuacao": 2,
+                "idCientista": 3
+            },
+            {
+                "idAreaAtuacao": 1,
+                "idCientista": 1
+            },
+            {
+                "idAreaAtuacao": 2,
+                "idCientista": 5
+            },
+            {
+                "idAreaAtuacao": 2,
+                "idCientista": 1
+            }
+	    ]
+}

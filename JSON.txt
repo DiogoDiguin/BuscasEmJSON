@@ -1,0 +1,132 @@
+{
+    "idCientista":"1", 
+    "nomeCientista": "Diogo Vitor Oliveira Leme", 
+    "cpfCientista": "11111111111", 
+    "dataNascCientista": "30/06/2002",
+    "email":"emailteste@hotmail.com", 
+    "emailAlternativo": "", 
+    "lattes": "google.com.br", 
+    "snhCientista": "123123123"
+    /*"redesSociais": [
+        "Sedna Jones", "Ian Jones"
+        ]*/
+    },
+
+-----
+
+    foreach ($cientistas as $c){
+    if($busca == $c->nomeCientista){
+        echo "Nome: $c->nomeCientista <br>";
+        echo "CPF: $c->cpfCientista <br>";
+        echo "Data Nasc.: $c->dataNascCientista <br>";
+        echo "Email: $c->email <br>";
+        echo "Email 02: $c->emailAlternativo <br>";
+        echo "Lattes: <a>".$c->lattes."</a> <br>";
+        echo "SNH:  $c->snhCientista <br>";
+        echo "<br>";
+            /*if (property_exists($e, "dependentes")) {
+                $deps = $e->dependentes;
+                echo "dependentes: <br>";
+                foreach ( $deps as $d ) echo "- $d<br/>";
+            }*/
+    }
+}
+
+-----
+
+if (isset($_POST['palavra'])){
+        $busca = $_POST['palavra'];
+        //print_r($dadosJsonDecode);
+        foreach ($cientistas as $c){
+            if(str_contains($c->nomeCientista, $busca) or $buscaCidade==$c->cidadeCientista){
+                echo "Nome: $c->nomeCientista <br>";
+                echo "CPF: $c->cpfCientista <br>";
+                echo "Cidade: $c->cidadeCientista <br>";
+                echo "Data Nasc.: $c->dataNascCientista <br>";
+                echo "Email: $c->email <br>";
+                echo "Email 02: $c->emailAlternativo <br>";
+                echo "Lattes: <a>".$c->lattes."</a> <br>";
+                echo "SNH:  $c->snhCientista <br>";
+                echo "<br>";
+                    /*if (property_exists($e, "dependentes")){
+                        $deps = $e->dependentes;
+                        echo "dependentes: <br>";
+                        foreach ( $deps as $d ) echo "- $d<br/>";
+                    }*/
+            }
+        }
+    }else 
+
+echo "<table class=customers>
+        <thead>
+            <tr>
+                <td colspan=3><strong>$nome</strong></td>
+                <td class=centro>
+                    <a href=$whatsapp$telefone target=_blank><img src=../Imagens/whatsapp.svg alt=Whatsapp Logo
+                    width=25px heigth=25px/></a>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td width=12%> Data Nascimento: <br> $dataNasc </td>
+                <td width=12%></td>
+                <td width=12%> Cidade: <br> $cidade </td>
+                <td width=12%></td>
+            </tr>
+            <tr>
+                <td width=12%> CPF: <br> $cpf </td>
+                <td colspan=2> Email: <br> <a href=mailto:$email> $email </td>
+                <td width=12%></td>
+            </tr>
+            <tr>
+                <td width=12%> SNH: <br> $snh </td>
+                <td colspan=2> Email 02: <br> <a href=mailto:$email_02> $email_02 </td>";
+
+    if($lattes<>""){
+            echo "<td width=12% style=text-align:center> <a href=$lattes target=_blank> Lattes </a> </td>
+            </tr>
+        </tbody>
+        </table><br>";
+    }else{
+            echo "<td width=12%> </td>
+            </tr>
+        </tbody>
+        </table><br>";
+    }
+
+----
+
+    echo "<table class=customers>
+            <tr>
+            <td colspan=2><strong>$titulo</strong></td>
+            </tr>
+            <tr>
+                <td colspan=2> Resumo: <br> $resumo </td>
+                </tr>
+            <tr>
+                <td width=24%> Data Início: <br> $dataInicio </td>
+                <td width=24%> Data Término: <br> $dataFim </td>
+            </tr>
+            </table>";
+            foreach ($cientistas as $c){
+                if($idCient == $c->idCientista){
+                    echo "Responsável: $c->nomeCientista <br><br>";
+                    echo "<a href=$whatsapp$c->telCientista target=_blank><img src=../Imagens/whatsapp.svg 
+                    alt=Whatsapp Logo width=25px heigth=25px/></a>";
+                }
+            }
+        echo "<hr>";
+
+
+        "instagramCientista": "https://www.instagram.com/",
+                              "facebookCientista": "https://www.facebook.com/",
+                              "linkedinCientista": "https://www.linkedin.com/home",
+                              "youtubeCientista": "https://www.youtube.com/",
+                              "tiktokCientista": "https://www.tiktok.com/pt-BR/",
+                        "snhCientista": "123123123",
+                        "telCientista": "16997923046"
+
+
+
+                        

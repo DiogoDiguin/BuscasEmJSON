@@ -1,0 +1,25 @@
+{
+    "areaAtuacao":
+	    [
+            {
+                "idAreaAtuacao": 1,
+                "nomeAreaAtuacao": "Computacação"
+            },
+            {
+                "idAreaAtuacao": 2,
+                "nomeAreaAtuacao": "Medicina"
+            },
+            {
+                "idAreaAtuacao": 3,
+                "nomeAreaAtuacao": "Biologia"
+            },
+            {
+                "idAreaAtuacao": 4,
+                "nomeAreaAtuacao": "Genética"
+            },
+            {
+                "idAreaAtuacao": 5,
+                "nomeAreaAtuacao": "Robótica"
+            }
+	    ]
+}

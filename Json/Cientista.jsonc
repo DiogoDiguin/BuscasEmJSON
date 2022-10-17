@@ -1,0 +1,117 @@
+{
+      "cientistas":
+	      [
+                  {
+                        "idCientista": 1,
+                        "nomeCientista": "Diogo Vitor Oliveira Leme",
+                        "cidadeCientista": "Pradópolis",
+                        "cpfCientista": "11111111111",
+                        "dataNascCientista": "30/06/2002",
+                        "email": "emailteste@hotmail.com",
+                        "emailAlternativo": "emailteste02@hotmail.com",
+                        "lattes": "https://www.gov.br/cnpq/pt-br",
+                        "snhCientista": "1231231231"
+                  },
+                  {
+                        "idCientista": 2,
+                        "nomeCientista": "Vinicius Igor Nelson Melo",
+                        "cidadeCientista": "Guariba",
+                        "cpfCientista": "36053628000",
+                        "dataNascCientista": "12/01/1946",
+                        "email":"vinicius-melo91@cppcoder.com",
+                        "emailAlternativo": "vMelo12@cppcoder.com",
+                        "lattes": "https://www.gov.br/cnpq/pt-br",
+                        "snhCientista": "51316368029"
+                  },
+                  {
+                        "idCientista": 3,
+                        "nomeCientista": "Emanuelly Melo Silva",
+                        "cidadeCientista": "Jaboticabal",
+                        "cpfCientista": "77569255054",
+                        "dataNascCientista": "05/04/1965",
+                        "email":"emanuellylorenarocha@dr.com",
+                        "emailAlternativo": "",
+                        "lattes": "https://www.gov.br/cnpq/pt-br",
+                        "snhCientista": "22158175580"
+                  },
+                  {
+                        "idCientista": 4,
+                        "nomeCientista": "Emanuelly De Paula Nogueira",
+                        "cidadeCientista": "Ribeirão Preto",
+                        "cpfCientista": "68244270713",
+                        "dataNascCientista": "20/07/1977",
+                        "email":"Emanuelly_depaula@dglnet.com.br",
+                        "emailAlternativo": "EPaula@dglnet.br",
+                        "lattes": "https://www.gov.br/cnpq/pt-br",
+                        "snhCientista": "90898098098"
+                  },
+                  {
+                        "idCientista": 5,
+                        "nomeCientista": "Cauê Vinicius Caldeira",
+                        "cidadeCientista": "Jaboticabal",
+                        "cpfCientista": "75482161730",
+                        "dataNascCientista": "15/07/1989",
+                        "email":"cauê_caldeira@ovi.com",
+                        "emailAlternativo": "",
+                        "lattes": "https://www.gov.br/cnpq/pt-br",
+                        "snhCientista": "51316368029"
+                  },
+                  {
+                        "idCientista": 6,
+                        "nomeCientista": "Enrico Eduardo João Souza",
+                        "cidadeCientista": "Jaboticabal",
+                        "cpfCientista": "05409290933",
+                        "dataNascCientista": "06/10/1978",
+                        "email":"enrico-souza75@gerj.com.br",
+                        "emailAlternativo": "Esouza@yahoo.com.br",
+                        "lattes": "https://www.gov.br/cnpq/pt-br",
+                        "snhCientista": "79394693349"
+                  },
+                  {
+                        "idCientista": 7,
+                        "nomeCientista": "Camila Emanuelly Bernardes",
+                        "cidadeCientista": "Jaboticabal",
+                        "cpfCientista": "50290316260",
+                        "dataNascCientista": "08/10/1977",
+                        "email":"camila_bernardes@lordello.com.br",
+                        "emailAlternativo": "",
+                        "lattes": "https://www.gov.br/cnpq/pt-br",
+                        "snhCientista": "81417610330"
+                  },
+                  {
+                        "idCientista": 8,
+                        "nomeCientista": "Nelson João Filipe Nascimento",
+                        "cidadeCientista": "Jaboticabal",
+                        "cpfCientista": "15525917270",
+                        "dataNascCientista": "06/06/1967",
+                        "email":"nelsonthalesnascimento@clubedorei.com.br",
+                        "emailAlternativo": "",
+                        "lattes": "https://www.gov.br/cnpq/pt-br",
+                        "snhCientista": "99118807651"
+                  },
+                  {
+                        "idCientista": 9,
+                        "nomeCientista": "Luzia Sarah da Cunha Bernardes",
+                        "cidadeCientista": "Jaboticabal",
+                        "cpfCientista": "09201201990",
+                        "dataNascCientista": "15/03/1948",
+                        "email":"luzia.sarah.dacunha@azulcargo.com.br",
+                        "emailAlternativo": "luzia.saraha@gmail.com.br",
+                        "lattes": "https://www.gov.br/cnpq/pt-br",
+                        "snhCientista": "02358042243"
+                  },
+                  {
+                        "idCientista": 10,
+                        "nomeCientista": "Davi Sebastião Pereira",
+                        "cidadeCientista": "Jaboticabal",
+                        "cpfCientista": "91096568047",
+                        "dataNascCientista": "04/03/1961",
+                        "email":"davi-pereira78@flama.biz",
+                        "emailAlternativo": "",
+                        "lattes": "https://www.gov.br/cnpq/pt-br",
+                        "snhCientista": "72912327362"
+                  }
+	      ]
+      
+}
+

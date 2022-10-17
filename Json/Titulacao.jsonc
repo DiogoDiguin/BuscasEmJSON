@@ -1,0 +1,17 @@
+{
+    "titulacao":
+	    [
+            {
+                "idTitulacao": 1,
+                "nomeTitulacao": "Bacharelado"
+            },
+            {
+                "idTitulacao": 2,
+                "nomeTitulacao": "Mestrado"
+            },
+            {
+                "idTitulacao": 3,
+                "nomeTitulacao": "Doutorado"
+            }     
+	    ]
+}

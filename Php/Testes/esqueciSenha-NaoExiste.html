@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/1ab94d0eba.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src = "../js/index.js"></script>
+    <link rel="stylesheet" href="../css/style02.css">
+    <style>
+        a{
+            text-decoration: none;
+        }
+        a:hover{
+            color: #0000FF;
+            text-decoration: none;
+        }
+    </style>
+    <title>Esqueci minha senha</title>
+</head>
+<body>
+    <div class="principal">
+        <main class="container">
+            <h2>Esqueci minha senha</h2>
+            <form action="../php/recebe.php" method="post">
+                <div class="input-field">
+                    <div class="error" id="usuario-required-error">Digite seu CPF</div>
+                    <input type="text" name="username" id="username" placeholder="Digite seu usuário">
+                    <div class="underline"></div>
+                </div>
+                <input type="submit" value="Enviar email" onclick="toggleUsuarioErrors(); return false">
+            </form>
+            
+            <br>
+            <h5 style="color: red;">Usuário não consta na base de dados</h5>
+        
+        </main>
+    </div>
+
+</body>
+</html>

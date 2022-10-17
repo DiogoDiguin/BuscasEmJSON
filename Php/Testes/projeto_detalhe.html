@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/1ab94d0eba.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src = "../js/index.js"></script>
+    <link rel="stylesheet" href="../css/style02.css">
+    <style>
+        a{
+            text-decoration: none;
+        }
+        a:hover{
+            color: #0000FF;
+            text-decoration: none;
+        }
+    </style>
+    <title>Upload Projeto</title>
+</head>
+<body>
+    <main class="container formulario2">
+    
+        <h1 style="margin-bottom: 20px; text-align: center;">Upload Projeto</h1>
+        
+        <label for="data">Nome:</label>
+        <input type="text" name="nome" id="nome" value="Projeto 1" />
+        <br>
+
+        <label for="responsavel">Responsavel:</label>
+        <input type="text" name="responsavel" id="responsavel" value="Rogerio Alvarenga" />
+        <br>
+      
+        <label for="inicio">Data Inicio:</label>
+        <input type="date" name="inicio" id="inicio" value="2022-08-01" />
+        <br>
+
+        <label for="fim">Data Fim:</label>
+        <input type="date" name="fim" id="fim" value="2022-08-25" />
+        <br>
+
+        <label for="resumo">Resumo:</label>
+        <br>
+        <textarea style="border-color:lightslategray; border-style: solid; border-width: 1px;" id="resumo" name="resumo"rows="10" cols="50">
+        O presente projeto visa a desenvolver as habilidades de webdesign e programação de todos os membros que desenvolvem este trabalho
+        </textarea>
+        <br>
+        <br>
+
+        
+      
+        <label for="publico">Publico:</label>
+        <input type="checkbox" name="publico" id="publico" value="" checked="true"/>
+        <br>
+
+        <label for="privado" >Privado:</label>
+        <input type="checkbox" name="privado" id="privado" value="" checked="false" />
+        <br>
+        
+        <button type="submit" style="width: 95%; height: 20px; border-color: black; border-style: solid; border-width: 1px; margin-top: 20px">Cadastrar Projeto</button>
+        
+      </form>
+</body>
+</html>

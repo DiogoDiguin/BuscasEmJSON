@@ -1,0 +1,96 @@
+{
+    "telefones":
+	    [
+            {
+                "idRedeSocial": 1,
+                "idCientista": 1,
+                "ddd": "16",
+                "numero": "111111111"
+            },
+            {
+                "idRedeSocial": 2,
+                "idCientista": 1,
+                "ddd": "16",
+                "numero": "123456789"
+            },
+            {
+                "idRedeSocial": 3,
+                "idCientista": 9,
+                "ddd": "48",
+                "numero": "639170085"
+            },
+            {
+                "idRedeSocial": 4,
+                "idCientista": 2,
+                "ddd": "37",
+                "numero": "927443486"
+            },
+            {
+                "idRedeSocial": 5,
+                "idCientista": 10,
+                "ddd": "82",
+                "numero": "925685233"
+            },
+            {
+                "idRedeSocial": 6,
+                "idCientista": 7,
+                "ddd": "79",
+                "numero": "938624340"
+            },
+            {
+                "idRedeSocial": 7,
+                "idCientista": 4,
+                "ddd": "69",
+                "numero": "934913278"
+            },
+            {
+                "idRedeSocial": 8,
+                "idCientista": 6,
+                "ddd": "99",
+                "numero": "925877750"
+            },
+            {
+                "idRedeSocial": 9,
+                "idCientista": 9,
+                "ddd": "22",
+                "numero": "923885979"
+            },
+            {
+                "idRedeSocial": 10,
+                "idCientista": 5,
+                "ddd": "69",
+                "numero": "927635154"
+            },
+            {
+                "idRedeSocial": 11,
+                "idCientista": 10,
+                "ddd": "96",
+                "numero": "938200615"
+            },
+            {
+                "idRedeSocial": 12,
+                "idCientista": 9,
+                "ddd": "96",
+                "numero": "928064047"
+            },
+            {
+                "idRedeSocial": 13,
+                "idCientista": 1,
+                "ddd": "75",
+                "numero": "922796675"
+            },
+            {
+                "idRedeSocial": 14,
+                "idCientista": 3,
+                "ddd": "69",
+                "numero": "924501306"
+            },
+            {
+                "idRedeSocial": 15,
+                "idCientista": 8,
+                "ddd": "67",
+                "numero": "921536667"
+            }
+	    ]
+}
+

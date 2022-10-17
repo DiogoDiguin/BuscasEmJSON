@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/1ab94d0eba.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src = "../js/index.js"></script>
+    <link rel="stylesheet" href="../css/style02.css">
+    <title>Inicio</title>
+    <style>
+        .mycontainer a{
+            color: blue!important;
+        }
+        .mycontainer a:hover{
+            color: blue!important;;
+            text-decoration: none;
+        }
+    </style>    
+</head>
+<body>
+    <nav>
+        <ul class="containermenu">
+          <li><a href='index.html'>Inicio</a></li>
+          <li><a href='perfil.html'>Perfil</a></li>
+          <li><a href='cadastro.html'>+ Usuario</a></li>
+          <li><a href='search.html'>Pesquisar Projeto</a></li>
+          <li><a href='projeto_inserir.html'>Incluir Projeto</a></li>
+          <li><a href='logout.html'>Logout</a></li>
+          <li><a href="perfil_static.html">Perfil cientista (para terceiros)</a></li>
+        </ul>
+    </nav>
+
+    
+    <div class="principal">
+        <main class=" container formulario2">
+            <div class="mycontainer">
+                <form method="post" action="$">
+                    <div class="mylabel">Projeto:</div>
+                    <input type="text" name="projeto" id="projeto" value="" />
+                    <br />
+                    <div class="mylabel">Cientista:</div>
+                    <input type="text" name="cientista" id="cientista" value="" />
+                    <br />
+                    <div class="mylabel">Area:</div>
+                    <input type="text" name="area" id="area" value="" />
+                    <br />
+                    <div class="mylabel">Cidade:</div>
+                    <input type="text" name="cidade" id="cidade" value="" />
+                    <br />
+                    <br />
+                    <button type="submit">PESQUISAR</button>
+                    
+                </form>
+            </div>
+        
+        <div class="mycontainer">
+            <div class="mylabel">Projeto:           <strong>Projeto 1           </strong></div>
+            <div class="mylabel">Nome do Projeto:   <strong>Projeto 1           </strong></div>
+            <div class="mylabel">Responsavel:       <strong>Rogerio Alvarenga   </strong></div>
+            <div class="mylabel">Cidade:            <strong>Ribeirão Preto      </strong></div>
+            <div class="mylabel"><a href="projeto_detalhe.html" style="appearance: button;">Exibir detalhes</a></div>
+            <hr>
+            <div class="mylabel">Projeto:           <strong>Projeto 2           </strong></div>
+            <div class="mylabel">Nome do Projeto:   <strong>Projeto 2           </strong></div>
+            <div class="mylabel">Responsavel:       <strong>Rogerio Alvarenga   </strong></div>
+            <div class="mylabel">Cidade:            <strong>Ribeirão Preto      </strong></div>
+            <div class="mylabel"><a href="projeto_detalhe.html">Exibir detalhes</a></div>
+            <hr>
+            <div class="mylabel">Projeto:           <strong>Projeto X           </strong></div>
+            <div class="mylabel">Nome do Projeto:   <strong>Projeto X           </strong></div>
+            <div class="mylabel">Responsavel:       <strong>Campinas            </strong></div>
+            <div class="mylabel">Cidade:            <strong>Campinas            </strong></div>
+            <div class="mylabel"><a href="projeto_detalhe.html">Exibir detalhes</a></div>
+            <hr>
+            <div class="mylabel">Projeto:           <strong>Projeto Y           </strong></div>
+            <div class="mylabel">Nome do Projeto:   <strong>Projeto Y           </strong></div>
+            <div class="mylabel">Responsavel:       <strong>Rogerio Alvarenga   </strong></div>
+            <div class="mylabel">Cidade:            <strong>São Paulo           </strong></div>
+            <div class="mylabel"><a href="projeto_detalhe.html">Exibir detalhes</a></div>
+            <hr>
+        </div>
+    </div>
+</body>
+</html>

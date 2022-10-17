@@ -1,0 +1,150 @@
+{
+    "redesSociais":
+	    [
+            {
+                "idRedeSocial": 1,
+                "idCientista": 1,
+                "enderecoSocial": "https://www.instagram.com/"
+            },
+            {
+                "idRedeSocial": 2,
+                "idCientista": 1,
+                "enderecoSocial": "https://www.facebook.com/"
+            },
+            {
+                "idRedeSocial": 3,
+                "idCientista": 1,
+                "enderecoSocial": "https://www.linkedin.com/home"
+            },
+            {
+                "idRedeSocial": 4,
+                "idCientista": 1,
+                "enderecoSocial": "https://www.youtube.com/"
+            },
+            {
+                "idRedeSocial": 5,
+                "idCientista": 1,
+                "enderecoSocial": "https://www.tiktok.com/pt-BR/"
+            },
+            {
+                "idRedeSocial": 6,
+                "idCientista": 2,
+                "enderecoSocial": "https://www.linkedin.com/home"
+            },
+            {
+                "idRedeSocial": 7,
+                "idCientista": 2,
+                "enderecoSocial": "https://www.youtube.com/"
+            },
+            {
+                "idRedeSocial": 8,
+                "idCientista": 2,
+                "enderecoSocial": "https://www.tiktok.com/pt-BR/"
+            },
+            {
+                "idRedeSocial": 9,
+                "idCientista": 3,
+                "enderecoSocial": "https://www.tiktok.com/pt-BR/"
+            },
+            {
+                "idRedeSocial": 10,
+                "idCientista": 3,
+                "enderecoSocial": "https://www.facebook.com/"
+            },
+            {
+                "idRedeSocial": 11,
+                "idCientista": 3,
+                "enderecoSocial": "https://www.youtube.com/"
+            },
+            {
+                "idRedeSocial": 12,
+                "idCientista": 3,
+                "enderecoSocial": "https://www.linkedin.com/home"
+            },
+            {
+                "idRedeSocial": 13,
+                "idCientista": 4,
+                "enderecoSocial": "https://www.facebook.com/"
+            },
+            {
+                "idRedeSocial": 14,
+                "idCientista": 4,
+                "enderecoSocial": "https://www.youtube.com/"
+            },
+            {
+                "idRedeSocial": 15,
+                "idCientista": 4,
+                "enderecoSocial": "https://www.linkedin.com/home"
+            },
+            {
+                "idRedeSocial": 16,
+                "idCientista": 5,
+                "enderecoSocial": "https://www.instagram.com/"
+            },
+            {
+                "idRedeSocial": 17,
+                "idCientista": 5,
+                "enderecoSocial": "https://www.facebook.com/"
+            },
+            {
+                "idRedeSocial": 18,
+                "idCientista": 6,
+                "enderecoSocial": "https://www.instagram.com/"
+            },
+            {
+                "idRedeSocial": 19,
+                "idCientista": 6,
+                "enderecoSocial": "https://www.tiktok.com/pt-BR/"
+            },
+            {
+                "idRedeSocial": 20,
+                "idCientista": 6,
+                "enderecoSocial": "https://www.youtube.com/"
+            },
+            {
+                "idRedeSocial": 21,
+                "idCientista": 7,
+                "enderecoSocial": "https://www.instagram.com/"
+            },
+            {
+                "idRedeSocial": 22,
+                "idCientista": 8,
+                "enderecoSocial": "https://www.tiktok.com/pt-BR/"
+            },
+            {
+                "idRedeSocial": 23,
+                "idCientista": 8,
+                "enderecoSocial": "https://www.facebook.com/"
+            },
+            {
+                "idRedeSocial": 24,
+                "idCientista": 8,
+                "enderecoSocial": "https://www.linkedin.com/home"
+            },
+            {
+                "idRedeSocial": 25,
+                "idCientista": 9,
+                "enderecoSocial": "https://www.instagram.com/"
+            },
+            {
+                "idRedeSocial": 26,
+                "idCientista": 9,
+                "enderecoSocial": "https://www.linkedin.com/home"
+            },
+            {
+                "idRedeSocial": 27,
+                "idCientista": 9,
+                "enderecoSocial": "https://www.youtube.com/"
+            },
+            {
+                "idRedeSocial": 28,
+                "idCientista": 10,
+                "enderecoSocial": "https://www.instagram.com/"
+            },
+            {
+                "idRedeSocial": 29,
+                "idCientista": 10,
+                "enderecoSocial": "https://www.facebook.com/"
+            }       
+	    ]
+}
